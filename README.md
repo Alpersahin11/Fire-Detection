@@ -1,4 +1,4 @@
-#Genel Bakış
+# Genel Bakış
 
 Bu proje, Convolutional Neural Networks (CNN'ler) kullanarak derin öğrenme tabanlı bir yangın tespit sistemi geliştirmeyi hedefliyor. Sistem, görüntüleri "yangın" veya "yangın değil" olarak sınıflandırma yeteneğine sahip. Proje, TensorFlow ve Keras kullanılarak uygulanmış olup, daha fazla geliştirme ve uyarlama için kolayca genişletilebilir.
 
